@@ -1,2 +1,2 @@
-# ucloud-p2-image-filter
+# ucdp-p2-image-filter
 Udacity Cloud Developer Project 2 : Udagram Image Filtering Microservice
